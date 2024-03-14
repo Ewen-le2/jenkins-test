@@ -37,5 +37,5 @@ fclean:	clean
 
 re: fclean all
 
-test_run:
+tests_run:
 	./$(NAME)
